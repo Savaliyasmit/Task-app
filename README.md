@@ -38,7 +38,7 @@ Watch the demo video
 
 Clone the repository:
 
-git clone https://github.com/yourusername/task-app.git
+git clone https://github.com/Savaliyasmit/Task-app.git
 
 Navigate to the project directory:
 
