@@ -3,7 +3,7 @@ Overview
 
 The Task App is a simple and intuitive application designed to help users manage their daily tasks effectively. Inspired by the functionality of the Notes app, it includes features like creating, modifying, and deleting tasks, along with a search functionality and smooth animations.
 
-#Features
+# Features
 
 Create Todo: Easily add new tasks with a user-friendly interface.
 
