@@ -1,3 +1,7 @@
+# Note
+
+This project is developed on a Hackintosh setup. Both the iOS simulator and the demo video may experience lag due to the limitations of the setup.
+
 # Task App
 
 Overview
